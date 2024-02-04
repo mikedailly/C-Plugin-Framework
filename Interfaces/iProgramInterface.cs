@@ -9,7 +9,7 @@
 //  Mike Dailly
 //
 //
-//  If you havce any additions or improvements, please consider pushing them back for everyone to use and enjoy.
+//  If you have any additions or improvements, please consider pushing them back for everyone to use and enjoy.
 //
 // ******************************************************************************************************************************************************
 using System;
