@@ -1,2 +1,2 @@
-# C-Plugin-Framework
+# Plugin-Framework
 A simple C# plugin framework
